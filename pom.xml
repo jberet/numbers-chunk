@@ -16,7 +16,7 @@
 
     <groupId>org.jberet.samples</groupId>
     <artifactId>numbers-chunk</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>numbers-chunk</name>
     <description>A simple Java batch-processing webapp with REST API</description>
